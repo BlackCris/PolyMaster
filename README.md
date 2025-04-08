@@ -23,7 +23,7 @@
 
 ---
 
-### 📸 Screenshots (Coming Soon)
+### 📸 Screenshots
 
 - ![ima321ge](https://github.com/user-attachments/assets/7a951816-b098-4909-89bd-7354d6b3f841)
 - ![image](https://github.com/user-attachments/assets/03865a87-07a9-49aa-a564-118275435ffb)
